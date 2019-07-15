@@ -4,7 +4,7 @@ terraform {
     organization = "berchevorg"
 
     workspaces {
-      prefix = "3dirs-"
+      name = "3dirs"
     }
   }
 }
